@@ -1,0 +1,77 @@
+# Eclipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.externalToolBuilders/
+*.launch
+*.pydevproject
+.cproject
+.autotools
+.factorypath
+.buildpath
+.target
+.tern-project
+.texlipse
+.springBeans
+.recommenders/
+.apt_generated/
+.apt_generated_test/
+.cache-main
+.scala_dependencies
+.worksheet
+.sts4-cache/
+
+# Java
+*.class
+*.log
+*.ctxt
+hs_err_pid*
+replay_pid*
+
+# Maven
+target/
+.pom.xml.tag
+.pom.xml.releaseBackup
+.pom.xml.versionsBackup
+.pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Dynamic Web Project
+# Uncomment the following line if you wish to include the project description file.
+# Typically, this file would be tracked if it contains build/dependency configurations:
+# .project
+
+# Include Java source code
+# src/ 폴더에 있는 Java 소스 코드를 포함합니다.
+!src/
+
+# Include webapp folder
+# webapp/ 폴더에 있는 웹 애플리케이션 자원을 포함합니다.
+!webapp/
